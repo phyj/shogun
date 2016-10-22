@@ -1,1 +1,12 @@
--Isrc
+-I/usr/include/libxml2
+-I/usr/local/Cellar/json-c/0.12/include/json-c
+-I/usr/local/Cellar/hdf5/1.8.17/include
+-I/usr/local/include
+-I/Users/wiking/shogun/src/shogun
+-stdlib=libc++
+-I/private/var/folders/4r/cfsl826x2wg41rgjs3_d30fm0000gp/T/EasyClangComplete/cmake_builds/b6d86dbf591fa8f09aea1f19b35cb681/src/shogun
+-I/Users/wiking/shogun/src
+-I/usr/local/opt/szip/include
+-isystem/usr/local/include/eigen3
+-std=c++11
+-I/private/var/folders/4r/cfsl826x2wg41rgjs3_d30fm0000gp/T/EasyClangComplete/cmake_builds/b6d86dbf591fa8f09aea1f19b35cb681/src
